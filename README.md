@@ -1,19 +1,20 @@
 ![工作室LOGO](https://s2.loli.net/2023/12/10/vIUlsmzJn4i2oB9.png) 
 # MinecraftServerWebwebsite
-
+- 注意！此项目已停止维护！
+- 注意！此项目已停止维护！
+- 注意！此项目已停止维护！
 |开发团队|铭诚网络工作室
 |---|---
 |开源工作|B4QAQ
 |维护工作|B4QAQ
 |开源协议|![LICENSE](https://img.shields.io/badge/License-GPLV3-green)
-|项目状态|![Build](https://img.shields.io/badge/Bulid-passing-green)
+|项目状态|![Build](https://img.shields.io/badge/Bulid-stop-red)
 |项目版本|![LICENSE](https://img.shields.io/badge/Release-2.1-green)
 
 ![LICENSE](https://img.shields.io/badge/Using-PHP-green)
 ![LICENSE](https://img.shields.io/badge/Using-HTML-green)
 ![LICENSE](https://img.shields.io/badge/Composer-2.0.14-green)
 ![LICENSE](https://img.shields.io/badge/MySql-5.7-green)  
-Copyright by 2023 Mingcheng Network Studio  
 
 ### 网站预览
 [前往Caryworld.b4qaq.top预览最新Beta版](https://caryworld.b4qaq.top)   
